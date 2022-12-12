@@ -8,7 +8,7 @@ My first exposure to web development was in the Myspace hay-day. I began experim
 
 * 🌍  I'm based in Barcelona, ES.
 * ✉️  You can contact me at [alexander.crump11@gmail.com](mailto:alexander.crump11@gmail.com)
-* 🚀  I'm currently working on [FootyChat](http://FootyChat)
+* 🚀  I'm currently working on [FootyChat](http://github.com/11ac11/footy-chat)
 * 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on any forward thinking and exciting ideas.
 * ⚡  I also make electronic music!
