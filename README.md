@@ -4,7 +4,7 @@ Hi! My name is Alex Crump 👋
 Software Engineer/Designer
 --------------------------
 
-My first exposure to web development was in the Myspace hay-day. I began experimenting with HTML and instantly enjoyed the combination of technology and creativity. Since then, I've managed to build projects using bare HTML/CSS and JavaScript based front-end frameworks: React, Angular, React Native, Svelte combined with Postgres or MongoDB databases.
+My first exposure to web development was in the Myspace hay-day. I began experimenting with HTML and instantly enjoyed the combination of technology and creativity. Since then, I've managed to build projects using bare HTML/CSS and numerous front-end frameworks including: React, Angular, React Native & Svelte. On full-stack projects, I've used Express/Koa for my servers and Sequelize, MongoDB, Mongoose & Firebase for a database. 
 
 * 🌍  I'm based in Barcelona, ES.
 * ✉️  You can contact me at [alexander.crump11@gmail.com](mailto:alexander.crump11@gmail.com)
